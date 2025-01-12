@@ -1,16 +1,37 @@
-# hello world
+# Flutter App
 
-A new Flutter project.
+This is a simple Flutter app that demonstrates the usage of Stateful widgets, color changes on button press, and other common Flutter widgets.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Color Changing Container**: The container color changes between two colors when the floating action button is pressed.
+- **Bottom Navigation Bar**: Includes a bottom navigation bar with Home, Leaderboard, and Settings tabs.
+- **Drawer**: A simple drawer with basic text.
+- **Responsive UI**: The layout is designed to be responsive to different screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository**:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    git clone https://github.com/yourusername/your-repository-name.git
+    ```
+
+2. **Install dependencies**:
+
+    Navigate to the project directory and run:
+
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app**:
+
+    Run the app on an emulator or connected device using:
+
+    ```bash
+    flutter run
+    ```
+
+## Project Structure
+
