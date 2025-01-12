@@ -1,0 +1,62 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Flutter/.generated/
+.idea/
+.vscode/
+
+# Android related
+*.apk
+*.aar
+*.so
+gradle-wrapper.jar
+local.properties
+
+# iOS related
+Pods/
+pod-lock
+.idea/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/project.xcconfig
+
+# macOS related
+.macos/
+.idea/
+
+# Windows related
+.windows/
+
+# Linux related
+.linux/
+
+# Web related
+.web/
+
+# Flutter-specific
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# VSCode and IntelliJ IDEA configurations
+.vscode/
+.idea/
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# JetBrains
+.idea/
+
+# Firebase/Google Services
+google-services.json
+GoogleService-Info.plist
+
+# Flutter testing and build
+test/
+flutter_test/
+integration_test/
