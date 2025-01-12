@@ -1,4 +1,4 @@
-# coolapp
+# hello world
 
 A new Flutter project.
 
